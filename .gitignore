@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+*.pytest_cache
+.gitattributes
+!*.zip
+# ignore the large files in zippeddata folder
+zippedData/
+*.zip
